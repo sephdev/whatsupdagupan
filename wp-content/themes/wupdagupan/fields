@@ -1,0 +1,64 @@
+===== WHATSUP FIELDS =====
+
+*Status - DRAFT, NEEDS WORK, UNDER REVIEW, ACTIVE
+
+-----------------------------
+-----------------------------
+
+
+===GENERAL===
+
+*Title - WP DEFAULT
+Thumbnail - WP DEFAULT
+Username - AUTHOR (Posted by)
+
+-----------------------------
+-----------------------------
+
+===EVENT===
+
+Tagline*
+Time - START, END
+Description - WP DEFAULT
+Contact Number
+Website
+Categories - Choices Provided
+Tags
+Accessibility*
+Location - CITY, PROVINCE
+
+-----------------------------
+-----------------------------
+
+===JOBS===
+Description - WP DEFAULT
+Contact Number
+Website*
+Categories
+Tags - WP DEFAULT
+Location
+
+-----------------------------
+-----------------------------
+
+===ARTICLES===
+Title - WP DEFAULT
+Excert - WP DEFAULT
+Category
+
+-----------------------------
+-----------------------------
+
+===DIRECTORIES===
+Company Name
+Excert(Limited Words) - WP DEFAULT
+Description - WP DEFAULT
+Contact Number
+Tags - WP DEFAULT
+Address
+Website
+Location
+
+-----------------------------
+-----------------------------
+
